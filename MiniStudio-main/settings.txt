@@ -1,0 +1,5 @@
+up: 122
+down: 115
+left: 113
+right: 100
+win: 112
